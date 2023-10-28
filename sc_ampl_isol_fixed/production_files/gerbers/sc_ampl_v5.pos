@@ -1,0 +1,29 @@
+### Footprint positions - created on Sat Sep 23 20:21:42 2023 ###
+### Printed by KiCad version 7.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val               Package                                   PosX       PosY       Rot  Side
+C1        10nF              C_0402_1005Metric                     127.3500  -103.9500  -90.0000  top
+C2        100n              C_0402_1005Metric                     135.4000  -103.6500   90.0000  top
+C3        1nF               C_0402_1005Metric                     133.0500  -108.3000    0.0000  top
+C4        1nF               C_0402_1005Metric                     138.8000  -108.4000    0.0000  top
+C5        4.7pF             C_0402_1005Metric                     132.6000  -106.8500   90.0000  top
+C6        1nF               C_0402_1005Metric                     138.2500  -107.0500    0.0000  top
+C7        1nF               C_0402_1005Metric                     142.4000  -108.4000  180.0000  top
+C8        22uF              C_0805_2012Metric                     141.2500   -99.4500  -90.0000  top
+C10       1nF               C_0402_1005Metric                     143.5000  -105.4500    0.0000  top
+C11       22uF              C_0805_2012Metric                     147.5000   -99.4500  -90.0000  top
+D1        LED               LED_0603_1608Metric                   141.7500  -101.9500    0.0000  top
+J1        Conn_01x02_Pin    PinHeader_1x02_P2.54mm_Horizontal     120.3000  -107.9900  180.0000  top
+J2        COAX              SMA_ALIEXPRESS                        149.0500  -105.2000  -90.0000  top
+R1        453_              R_0402_1005Metric                     134.3000  -105.3500  180.0000  top
+R2        1k                R_0402_1005Metric                     141.2000  -103.2500  180.0000  top
+R3        1k                R_0402_1005Metric                     143.8000  -102.1500  -90.0000  top
+RV1       10                Potentiometer_Bourns_3314J_Vertical   124.2000  -106.0500    0.0000  top
+SW1       SW_DPDT_x2        SW_DPDT_CK_JS202011JCQN               135.4500  -100.0000  180.0000  top
+U1        ~                 UDFN-6-1EP_3x2mm_P0.6mm_EP1.7x1.7mm   138.1000  -103.6000    0.0000  top
+U2        TC8-1+            TC2-72T+                              129.4500  -107.0000  -90.0000  top
+U3        BGA2803           SOT-363_SC-70-6                       135.6500  -107.6500  180.0000  top
+U4        BGA2802           SOT-363_SC-70-6                       140.8500  -106.4000  180.0000  top
+U5        _NCP163ASN330T1G  SOT-23-5                              144.3875   -99.4500    0.0000  top
+## End
