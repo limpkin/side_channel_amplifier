@@ -1,0 +1,19 @@
+(footprint "TEK_TP" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 3.8 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9bd4d81c-9e46-4840-98ea-17c6b82593ed)
+  )
+  (fp_text value "TEK_TP" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 727547b4-9f7f-4711-b6a6-ee3e95486bbd)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0d787c73-4ecd-401f-804c-0412198cacdf)
+  )
+  (pad "1" smd circle (at 0 0) (size 0.18 0.18) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9fcfa854-56b4-42af-9eb6-b2e0bef5ff35))
+  (pad "2" thru_hole circle (at 2.54 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu *.Mask) (tstamp c6a5db13-1603-47f7-96a0-99b9b57dc22c))
+)
