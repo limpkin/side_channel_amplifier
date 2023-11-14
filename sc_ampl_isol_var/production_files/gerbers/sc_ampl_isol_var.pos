@@ -1,0 +1,37 @@
+### Footprint positions - created on Sun Oct  8 22:35:09 2023 ###
+### Printed by KiCad version 7.0.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                Package                                   PosX       PosY       Rot  Side
+BT1       Battery_Cell       PinHeader_1x02_P2.54mm_Vertical       133.9500   -97.8500   90.0000  bottom
+BT2       Battery_Cell       CR1220_THZ_HOLDER                     140.5000  -104.3000    0.0000  bottom
+C1        10nF               C_0402_1005Metric                     127.3500  -104.8500  -90.0000  top
+C2        100n               C_0402_1005Metric                     142.9000  -103.4500  -90.0000  top
+C3        1nF                C_0402_1005Metric                     133.0500  -109.2000    0.0000  top
+C4        1nF                C_0402_1005Metric                     138.3300  -109.3000    0.0000  top
+C5        4.7pF              C_0402_1005Metric                     132.6000  -107.7500   90.0000  top
+C6        1nF                C_0402_1005Metric                     138.3300  -107.9500    0.0000  top
+C7        1nF                C_0402_1005Metric                     145.2500  -109.9500  -90.0000  top
+C8        22uF               C_0805_2012Metric                     134.6500   -99.9500  180.0000  top
+C9        2.2uF              C_0402_1005Metric                     149.6500  -102.3000    0.0000  top
+C10       1nF                C_0402_1005Metric                     147.1500  -106.3500    0.0000  top
+C11       22uF               C_0805_2012Metric                     131.2000  -102.7000   90.0000  top
+C12       2.2uF              C_0402_1005Metric                     144.4000  -102.9000  180.0000  top
+C13       1nF                C_0402_1005Metric                     143.7800  -110.4000  180.0000  top
+D1        LED                LED_0603_1608Metric                   152.4500  -103.3000  -90.0000  top
+J1        Conn_01x02_Pin     PinHeader_1x02_P2.54mm_Horizontal     120.3000  -108.8900  180.0000  top
+J2        COAX               SMA_ALIEXPRESS                        149.6500  -111.6500  180.0000  top
+R1        453_               R_0402_1005Metric                     141.4450  -101.9500    0.0000  top
+R2        1k                 R_0402_1005Metric                     138.7500  -101.9500  180.0000  top
+R3        1k                 R_0402_1005Metric                     149.7000  -104.1500    0.0000  top
+RV1       10                 Potentiometer_Bourns_3314J_Vertical   124.2000  -106.9500    0.0000  top
+RV2       100k               Potentiometer_Bourns_3314J_Vertical   149.9500   -99.2500  -90.0000  top
+SW1       SW_DPDT_x2         SW_DPDT_CK_JS202011JCQN               141.5500   -99.0000    0.0000  top
+U1        ~                  UDFN-6-1EP_3x2mm_P0.6mm_EP1.7x1.7mm   140.2500  -103.7750  180.0000  top
+U2        TC8-1+             TC2-72T+                              129.4500  -107.9000  -90.0000  top
+U3        BGA2803            SOT-363_SC-70-6                       135.6500  -108.5500  180.0000  top
+U4        BGA2802            SOT-363_SC-70-6                       144.2800  -107.3000  180.0000  top
+U5        _NCP163ASN330T1G   SOT-23-5                              134.3125  -102.7000  180.0000  top
+U6        MAAVSS0006TR-3000  SOT25                                 140.9800  -109.1500  180.0000  top
+U7        RP117Q252D         SOT-353_SC-70-5                       147.0500  -103.2500    0.0000  top
+## End
